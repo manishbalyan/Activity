@@ -1,0 +1,2 @@
+Name = "Mnaish"
+print Name
